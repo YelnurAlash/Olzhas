@@ -1,0 +1,31 @@
+body {
+    background-image:url(ppp.png)
+}
+
+h1 {
+    color:white;
+    text-align: center;
+    margin-top: 200px;
+}
+
+div {
+    margin: 10px;
+    text-align: center;
+}
+
+input {
+    height:50px;
+    width: 350px;
+    font-size: 20px;
+}
+
+button {
+    height:50px;
+    width: 150px;
+    font-size: 20px;
+    background-color: gray;
+}
+
+a {
+    font-size:20px;
+}
